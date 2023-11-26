@@ -1,5 +1,5 @@
 ![Header](https://share.creavite.co/tQIQUiie2ocvfiYo.gif)
-## I'm Linux User
+## I'm linux user
 About me
 
 My Discord
