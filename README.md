@@ -2,7 +2,7 @@
 ## Linux User
 I use Debian Linux 
 
-**Languages and Tools**
+**Languages and Tools:**
 
 ![Javascript](https://img.shields.io/badge/-Javascript-090909?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python)
@@ -10,7 +10,7 @@ I use Debian Linux
 ![LINUX](https://img.shields.io/badge/-linux-090909?style=for-the-badge&logo=linux)
 ![mysql](https://img.shields.io/badge/-mysql-090909?style=for-the-badge&logo=SQL)
 
-**Follow  Me**
+**Follow Me:**
 
 [![Discord](https://img.shields.io/badge/-discord-090909?style=for-the-badge&logo=Discord)](https://discord.gg/qPJKN3TPF6)
 [![Telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/Linuxlink_offical)
