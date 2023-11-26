@@ -4,7 +4,7 @@ About me
 
 My Discord
 
-Languages and Tools
+**Languages and Tools**
 
 ![Javascript](https://img.shields.io/badge/-Javascript-090909?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python)
