@@ -1,8 +1,6 @@
 ![Header](https://share.creavite.co/tQIQUiie2ocvfiYo.gif)
 ## Linux User
 
-I use Debian Linux
-
 **Languages and Tools**
 
 ![Javascript](https://img.shields.io/badge/-Javascript-090909?style=for-the-badge&logo=javascript)
