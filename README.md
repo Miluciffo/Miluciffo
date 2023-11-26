@@ -1,5 +1,5 @@
 ![Header](https://share.creavite.co/tQIQUiie2ocvfiYo.gif)
-## [🧡] I'm linux user
+## Linux User
 
 I use Debian Linux
 
