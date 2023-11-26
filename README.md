@@ -1,7 +1,7 @@
 ![Header](https://share.creavite.co/tQIQUiie2ocvfiYo.gif)
 ## [🧡] I'm linux user
 
-My Discord
+I use Debian Linux
 
 **Languages and Tools**
 
