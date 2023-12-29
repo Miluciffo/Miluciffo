@@ -12,5 +12,5 @@ I use Debian Linux
 
 **Follow Me:**
 
-[![Discord](https://img.shields.io/badge/-discord-090909?style=for-the-badge&logo=Discord)](https://discord.gg/qPJKN3TPF6)
+[![Discord](https://img.shields.io/badge/-discord-090909?style=for-the-badge&logo=Discord)](https://discord.gg/gyQkKdGHcs)
 [![Telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/Linuxlink_offical)
