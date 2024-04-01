@@ -1,6 +1,6 @@
 ![Header](https://share.creavite.co/tQIQUiie2ocvfiYo.gif)
 ## Linux User
-I use Debian Linux 
+I use Arch Linux 
 
 **Languages and Tools:**
 
